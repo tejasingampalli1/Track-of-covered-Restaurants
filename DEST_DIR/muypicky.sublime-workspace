@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sent",
+				"sent_mail"
+			],
+			[
+				"act",
+				"activation_key"
+			],
+			[
+				"L",
+				"LOGOUT_REDIRECT_URL"
+			],
+			[
+				"R",
+				"RegisterView"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"Register",
+				"RegisterForm"
+			],
+			[
+				"Cr",
+				"CreateView"
+			],
+			[
+				"get",
+				"get_user_model"
+			],
+			[
+				"is_",
+				"is_following_user_ids"
+			],
+			[
+				"P",
+				"ProfileManager"
+			],
+			[
+				"is",
+				"is_following"
+			],
+			[
+				"user",
+				"user_to_toggle"
+			],
+			[
+				"def",
+				"default_user_profile"
+			],
+			[
+				"fo",
+				"followers"
+			],
+			[
+				"post",
+				"post_save_user_receiver"
+			],
+			[
+				"name",
+				"name__icontains"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ban",
+				"background\tproperty"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"Item",
+				"ItemForm"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ge",
+				"get_form_kwargs"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"It",
+				"ItemCreateView"
+			],
+			[
+				"he",
+				"help_text"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"v",
+				"validate_category"
+			],
+			[
+				"va",
+				"validate_category"
+			],
+			[
+				"Rest",
+				"RestaurantLocation"
+			],
+			[
+				"reat",
+				"restaurants"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"Resta",
+				"RestaurantCreateForm"
+			],
+			[
+				"D",
+				"DONT_USE"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"res",
+				"Restaurants"
+			],
+			[
+				"pre",
+				"rl_pre_save_receiver"
+			],
+			[
+				"rest",
+				"rest_id"
+			],
+			[
+				"Re",
+				"RestaurantLocation"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR"
+	],
+	"file_history":
+	[
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/forms.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/views.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/templates/menus/home-feed.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/registration/register.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/muypicky/urls.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/muypicky/settings/base.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/views.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/utils.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/models.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/templates/profiles/snippets/follow_form.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/templates/profiles/register.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/templates/profiles/user.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/shell_comments.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/models.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/admin.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/profiles/urls.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/models.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/templates/menus/item_list.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/form.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/snippets/form-snippet.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/templates/menus/detail-update.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/forms.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/templates/restaurants/detail-update.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/urls.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/views.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/urls.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/forms.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/snippets/nav.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/templates/menus/item_detail.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/templates/restaurants/form.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/menus/admin.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/registration/login.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/base.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/validators.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/utils.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/Contact.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/About.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/Home.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/restaurants/admin.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/muypicky/settings/__init__.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/snippets/sidebar.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/snippets/js.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/templates/snippets/css.html",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/muypicky/settings/local.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/muypicky/settings/production.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/retaurants/views.py",
+		"/home/pavan/Dev/trydjango1-11/DEST_DIR/src/muypicky/old_settings.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

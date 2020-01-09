@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block head_title %} {{title}}||{{block.super}}{% endblock %}
+{% block contents %}
+<h1> {{title}} </h1>
+
+{% include 'snippets/form-snippet.html' %}
+{% endblock %}
+
+
+<!--
+	if at all tou want show the item object just put the below code after </form>
+{% if form.instance %}
+<h1>{{ form.instance.name }}</h1>
+{% endif %}
+	
+
+
+
